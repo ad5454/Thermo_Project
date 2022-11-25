@@ -23,7 +23,7 @@ The experimental results are evaluated using  [Mean Absolute Error (MAE)](),this
 
 ### Data
 
-The [data](https://github.com/adijams01/thermo_regression_01/blob/main/thermodynamics_csv.csv) :computer: was collected by us through various website :scroll:
+The [data](https://github.com/ad5454/Thermo_Project/blob/main/regression_csv_01.csv) :computer: was collected by us through various website :scroll:
 
 
 ![1](https://user-images.githubusercontent.com/92617405/201166911-e191cfae-9f35-485d-b866-b1a36624b994.jpeg)
