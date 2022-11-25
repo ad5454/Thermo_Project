@@ -26,12 +26,11 @@ The experimental results are evaluated using  [Mean Absolute Error (MAE)](),this
 The [data](https://github.com/ad5454/Thermo_Project/blob/main/regression_csv_01.csv) :computer: was collected by us through various website :scroll:
 
 
-![1](https://user-images.githubusercontent.com/92617405/201166911-e191cfae-9f35-485d-b866-b1a36624b994.jpeg)
+![WhatsApp Image ;;](https://user-images.githubusercontent.com/96897186/203904374-4ec4a608-5a58-4926-aa14-201998781a8a.jpeg)
 
-variation of features against temperature can be seen like below figure [here](https://github.com/adijams01/thermo_regression_01/blob/main/Data_Graphs.ipynb)
+variation of features against temperature can be seen like below figure [here](https://github.com/ad5454/Thermo_Project/blob/main/Data_Graphs.ipynb)
 
-
-![2](https://user-images.githubusercontent.com/92617405/201166975-2aa14538-7689-4ab1-9e1d-ccc18874c209.jpeg)
+![WhatsApp Image pop](https://user-images.githubusercontent.com/96897186/203904426-91fd0ee8-3d21-4d2d-adbe-1d0e811d0afd.jpeg)
 
 
 
@@ -40,7 +39,9 @@ variation of features against temperature can be seen like below figure [here](h
 Best performing model is model_08 with **_loss: 2.9669 (- mae: 2.9669)_**
 
 
-![3](https://user-images.githubusercontent.com/92617405/201166844-686d3a3d-75b5-4a37-a55d-8aceb94085c4.jpeg)
+![201166844-686d3a3d-75b5-4a37-a55d-8aceb94085c4](https://user-images.githubusercontent.com/96897186/203903936-acfd37b4-3028-4221-a5f6-c954426720da.jpeg)
+
+
 
 
 ### References
