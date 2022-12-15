@@ -41,8 +41,6 @@ Best performing model is model_08 with **_loss: 2.9669 (- mae: 2.9669)_**
 ![201166844-686d3a3d-75b5-4a37-a55d-8aceb94085c4](https://user-images.githubusercontent.com/96897186/203903936-acfd37b4-3028-4221-a5f6-c954426720da.jpeg)
 
 
-
-
 ### References
 
 
